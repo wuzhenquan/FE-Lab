@@ -7,7 +7,7 @@ import "./index.scss";
 
 import Header from "home/Header";
 import Footer from 'home/Footer';
-import PDPContent from "./PDPcontent";
+import PDPContent from "./PDPContent";
 
 const App = () => (
 	<Router>
